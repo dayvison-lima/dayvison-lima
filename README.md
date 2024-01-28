@@ -2,7 +2,7 @@
 
 ## ⭐ GitHub Stats
 
-[![card](https://github-readme-stats.vercel.app/api?username=dayvison-lima&theme=Tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![dayvison-lima](https://github-readme-stats.vercel.app/api/top-langs/?username=dayvison-lima&hide=html&layout=compact&theme=tokyobight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
